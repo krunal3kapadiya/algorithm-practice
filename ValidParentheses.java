@@ -1,4 +1,4 @@
-class Solution {
+class ValidParentheses {
  
     // Hashtable will take care of mappings
     private HashMap<Character, Character> mappings;

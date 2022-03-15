@@ -2,7 +2,7 @@
 Input: [2,7,11,15], 9
 Output: [0,1]
 **/
-class Solution {
+class TwoSum {
     // Brute force
     public int[] twoSum(int[] nums, int target) {
 

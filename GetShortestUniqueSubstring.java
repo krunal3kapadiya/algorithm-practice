@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class Solution {
+class GetShortestUniqueSubstring {
 
   static String getShortestUniqueSubstring(char[] arr, String str) {
     // your code goes here

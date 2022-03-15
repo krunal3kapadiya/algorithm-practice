@@ -1,4 +1,4 @@
-class Solution {
+class ReversedString {
     public int reverse(int x) {
         String reversed = new StringBuilder().append(Math.abs(x)).reverse().toString();
         try {
